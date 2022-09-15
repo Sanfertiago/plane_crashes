@@ -1,0 +1,1 @@
+Here we are going to analyze data from commercial airplane crashes, ill be using mainly jupyter notebooks.
